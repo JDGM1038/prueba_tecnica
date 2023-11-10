@@ -25,7 +25,9 @@ li{
     /* margin-right: 50px; */
     margin: 20px 60px;
 }
-
+li::hover{
+    opacity: .8;
+}
 
 
 h2{
